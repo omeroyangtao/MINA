@@ -5,7 +5,7 @@ This repository provides the benchmark data for our paper **MINA: Multimodal Int
 ## Overview
 
 MINA is designed for **implicit intention understanding** in social media posts.  
-Unlike previous approaches that mainly rely on text or image-text pairs, MINA jointly reasons over **text, images, videos, and audio** to better capture the complex and subtle intentions expressed by users in real-world social media scenarios.
+Unlike previous approaches that mainly rely on text or image-text pairs, MINA jointly reasons over **text, images, videos, and audio** (https://pan.baidu.com/s/1aW8IloeB1jqWAUj-pS1snA?pwd=7ci5) to better capture the complex and subtle intentions expressed by users in real-world social media scenarios.
 
 Based on this framework, we build a benchmark on **Twibot-22 tweets** for evaluating the intention reasoning ability of large language models and multimodal large language models.
 
